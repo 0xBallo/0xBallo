@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xBallo. Team Lead @ **SCM IT**
 - 👀 I’m interested in static site generators, software architectures, team management and blockchain.
-- 🌱 I’m currently learning (VuePress)[https://v2.vuepress.vuejs.org/] and Web Assembly.
+- 🌱 I’m currently learning [VuePress](https://v2.vuepress.vuejs.org/) and Web Assembly.
 - 💞️ I’m looking to collaborate on web3 and blockchain development.
 
 <!---
